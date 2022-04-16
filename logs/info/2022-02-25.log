@@ -1,0 +1,4 @@
+2022-02-25 14:59:24 [main] INFO  com.test.listener.ElementListener -点击:xpath: //android.widget.TextView[@text='密码']/..
+2022-02-25 14:59:28 [main] INFO  com.test.listener.ElementListener -点击:xpath: //android.widget.TextView[@text='贴纸图案锁']/..
+2022-02-25 15:00:11 [main] INFO  com.test.listener.ElementListener -点击:xpath: //android.widget.TextView[@text='密码']/..
+2022-02-25 15:00:16 [main] INFO  com.test.listener.ElementListener -点击:xpath: //android.widget.TextView[@text='贴纸图案锁']/..

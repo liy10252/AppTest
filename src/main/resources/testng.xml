@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<suite name="Apptest">
+    <test name="app初始化测试">
+        <classes>
+            <class name="com.test.firstAppium.AppiumTest">
+            </class>
+        </classes>
+    </test>
+</suite>

@@ -1,0 +1,5 @@
+2022-02-22 13:12:29 [main] INFO  com.test.listener.ElementListener -点击:xpath: //*[@text='登录']
+2022-02-22 13:12:29 [main] INFO  com.test.listener.ElementListener -点击:id: com.tencent.mm:id/erw
+2022-02-22 13:12:31 [main] INFO  com.test.listener.ElementListener -点击:xpath: //*[@text='请填写微信号/QQ号/邮箱']
+2022-02-22 13:12:31 [main] INFO  com.test.listener.ElementListener -点击:xpath: //*[@text='密码']/following-sibling::android.widget.EditText
+2022-02-22 13:12:32 [main] INFO  com.test.listener.ElementListener -点击:id: com.tencent.mm:id/erp

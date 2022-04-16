@@ -1,0 +1,15 @@
+2022-01-28 13:21:42 [main] INFO  com.test.listener.ElementListener -点击:xpath: //*[@text='登录']
+2022-01-28 13:21:43 [main] INFO  com.test.listener.ElementListener -点击:id: com.tencent.mm:id/erw
+2022-01-28 13:21:45 [main] INFO  com.test.listener.ElementListener -点击:xpath: //*[@text='请填写微信号/QQ号/邮箱']
+2022-01-28 13:21:45 [main] INFO  com.test.listener.ElementListener -点击:xpath: //*[@text='密码']/following-sibling::android.widget.EditText
+2022-01-28 13:21:46 [main] INFO  com.test.listener.ElementListener -点击:id: com.tencent.mm:id/erp
+2022-01-28 13:22:17 [main] INFO  com.test.listener.ElementListener -点击:xpath: //*[@text='登录']
+2022-01-28 13:22:17 [main] INFO  com.test.listener.ElementListener -点击:id: com.tencent.mm:id/erw
+2022-01-28 13:22:18 [main] INFO  com.test.listener.ElementListener -点击:xpath: //*[@text='请填写微信号/QQ号/邮箱']
+2022-01-28 13:22:19 [main] INFO  com.test.listener.ElementListener -点击:xpath: //*[@text='密码']/following-sibling::android.widget.EditText
+2022-01-28 13:22:19 [main] INFO  com.test.listener.ElementListener -点击:id: com.tencent.mm:id/erp
+2022-01-28 13:54:56 [main] INFO  com.test.listener.ElementListener -点击:xpath: //*[@text='登录']
+2022-01-28 13:54:57 [main] INFO  com.test.listener.ElementListener -点击:id: com.tencent.mm:id/erw
+2022-01-28 13:54:59 [main] INFO  com.test.listener.ElementListener -点击:xpath: //*[@text='请填写微信号/QQ号/邮箱']
+2022-01-28 13:54:59 [main] INFO  com.test.listener.ElementListener -点击:xpath: //*[@text='密码']/following-sibling::android.widget.EditText
+2022-01-28 13:55:00 [main] INFO  com.test.listener.ElementListener -点击:id: com.tencent.mm:id/erp

@@ -1,0 +1,8 @@
+2021-12-21 15:05:14 [main] INFO  com.test.listener.ElementListener -点击:id: com.handsgo.jiakao.android:id/btn_agree
+2021-12-21 15:05:27 [main] INFO  com.test.listener.ElementListener -点击:id: com.handsgo.jiakao.android:id/cityTv
+2021-12-21 15:05:29 [main] INFO  com.test.listener.ElementListener -点击:id: com.handsgo.jiakao.android:id/edt_search_q
+2021-12-21 15:05:30 [main] INFO  com.test.listener.ElementListener -点击:xpath: //android.widget.TextView[@text='长沙']
+2021-12-21 15:05:31 [main] INFO  com.test.listener.ElementListener -点击:id: com.handsgo.jiakao.android:id/maleTv
+2021-12-21 15:05:31 [main] INFO  com.test.listener.ElementListener -点击:id: com.handsgo.jiakao.android:id/carNameTv
+2021-12-21 15:05:32 [main] INFO  com.test.listener.ElementListener -点击:id: com.handsgo.jiakao.android:id/okBtn
+2021-12-21 15:05:33 [main] INFO  com.test.listener.ElementListener -点击:xpath: //*[@text='未报名']

@@ -1,0 +1,107 @@
+2022-01-21 13:13:21 [main] INFO  com.test.listener.ElementListener -点击:id: com.baidu.BaiduMap:id/tv_searchbox_home_text_switcher
+2022-01-21 13:13:23 [main] INFO  com.test.listener.ElementListener -点击:id: com.baidu.BaiduMap:id/tvSearchBoxInput
+2022-01-21 13:13:30 [main] INFO  com.test.listener.ElementListener -点击:id: com.baidu.BaiduMap:id/zoom_in
+2022-01-21 13:13:33 [main] INFO  com.test.listener.ElementListener -点击:id: com.baidu.BaiduMap:id/zoom_out
+2022-01-21 13:15:33 [main] INFO  com.test.listener.ElementListener -点击:xpath: //android.widget.TextView[@text='密码']/..
+2022-01-21 13:15:38 [main] INFO  com.test.listener.ElementListener -点击:xpath: //android.widget.TextView[@text='贴纸图案锁']/..
+2022-01-21 13:33:14 [main] INFO  com.test.listener.ElementListener -点击:xpath: //android.widget.TextView[@text='手机号登录']
+2022-01-21 13:36:28 [main] INFO  com.test.listener.ElementListener -点击:xpath: //android.widget.TextView[@text='手机号登录']
+2022-01-21 13:36:29 [main] INFO  com.test.listener.ElementListener -点击:id: com.netease.cloudmusic:id/a69
+2022-01-21 13:36:29 [main] INFO  com.test.listener.ElementListener -点击:id: com.netease.cloudmusic:id/f7
+2022-01-21 13:36:30 [main] INFO  com.test.listener.ElementListener -点击:id: com.netease.cloudmusic:id/f8
+2022-01-21 13:43:05 [main] INFO  com.test.listener.ElementListener -点击:-android uiautomator: new UiSelector().text("手机号登录")
+2022-01-21 13:43:05 [main] INFO  com.test.listener.ElementListener -点击:id: com.netease.cloudmusic:id/a69
+2022-01-21 13:43:06 [main] INFO  com.test.listener.ElementListener -点击:id: com.netease.cloudmusic:id/f7
+2022-01-21 13:43:06 [main] INFO  com.test.listener.ElementListener -点击:id: com.netease.cloudmusic:id/f8
+2022-01-21 13:48:12 [main] INFO  com.test.listener.ElementListener -点击:-android uiautomator: new UiSelector().text("手机号登录")
+2022-01-21 13:48:13 [main] INFO  com.test.listener.ElementListener -点击:id: com.netease.cloudmusic:id/a69
+2022-01-21 13:48:13 [main] INFO  com.test.listener.ElementListener -点击:id: com.netease.cloudmusic:id/f7
+2022-01-21 13:48:14 [main] INFO  com.test.listener.ElementListener -点击:id: com.netease.cloudmusic:id/f8
+2022-01-21 13:51:51 [main] INFO  com.test.listener.ElementListener -点击:-android uiautomator: new UiSelector().text("手机号登录")
+2022-01-21 13:51:51 [main] INFO  com.test.listener.ElementListener -点击:id: com.netease.cloudmusic:id/a69
+2022-01-21 13:51:52 [main] INFO  com.test.listener.ElementListener -点击:id: com.netease.cloudmusic:id/f7
+2022-01-21 13:51:52 [main] INFO  com.test.listener.ElementListener -点击:id: com.netease.cloudmusic:id/f8
+2022-01-21 13:52:29 [main] INFO  com.test.listener.ElementListener -点击:-android uiautomator: new UiSelector().text("手机号登录")
+2022-01-21 13:52:30 [main] INFO  com.test.listener.ElementListener -点击:id: com.netease.cloudmusic:id/a69
+2022-01-21 13:52:31 [main] INFO  com.test.listener.ElementListener -点击:id: com.netease.cloudmusic:id/f7
+2022-01-21 13:52:31 [main] INFO  com.test.listener.ElementListener -点击:id: com.netease.cloudmusic:id/f8
+2022-01-21 13:56:35 [main] INFO  com.test.listener.ElementListener -点击:-android uiautomator: new UiSelector().text("手机号登录")
+2022-01-21 13:56:35 [main] INFO  com.test.listener.ElementListener -点击:id: com.netease.cloudmusic:id/a69
+2022-01-21 13:56:36 [main] INFO  com.test.listener.ElementListener -点击:id: com.netease.cloudmusic:id/f7
+2022-01-21 13:56:36 [main] INFO  com.test.listener.ElementListener -点击:id: com.netease.cloudmusic:id/f8
+2022-01-21 13:57:04 [main] INFO  com.test.listener.ElementListener -点击:-android uiautomator: new UiSelector().text("手机号登录")
+2022-01-21 13:57:04 [main] INFO  com.test.listener.ElementListener -点击:id: com.netease.cloudmusic:id/a69
+2022-01-21 13:57:05 [main] INFO  com.test.listener.ElementListener -点击:id: com.netease.cloudmusic:id/f7
+2022-01-21 13:57:05 [main] INFO  com.test.listener.ElementListener -点击:id: com.netease.cloudmusic:id/f8
+2022-01-21 13:57:34 [main] INFO  com.test.listener.ElementListener -点击:-android uiautomator: new UiSelector().text("手机号登录")
+2022-01-21 13:57:35 [main] INFO  com.test.listener.ElementListener -点击:id: com.netease.cloudmusic:id/a69
+2022-01-21 13:57:35 [main] INFO  com.test.listener.ElementListener -点击:id: com.netease.cloudmusic:id/f7
+2022-01-21 13:57:36 [main] INFO  com.test.listener.ElementListener -点击:id: com.netease.cloudmusic:id/f8
+2022-01-21 14:01:11 [main] INFO  com.test.listener.ElementListener -点击:-android uiautomator: new UiSelector().text("手机号登录")
+2022-01-21 14:01:11 [main] INFO  com.test.listener.ElementListener -点击:id: com.netease.cloudmusic:id/a69
+2022-01-21 14:01:12 [main] INFO  com.test.listener.ElementListener -点击:id: com.netease.cloudmusic:id/f7
+2022-01-21 14:01:12 [main] INFO  com.test.listener.ElementListener -点击:id: com.netease.cloudmusic:id/f8
+2022-01-21 14:03:26 [main] INFO  com.test.listener.ElementListener -点击:-android uiautomator: new UiSelector().text("手机号登录")
+2022-01-21 14:03:27 [main] INFO  com.test.listener.ElementListener -点击:id: com.netease.cloudmusic:id/a69
+2022-01-21 14:03:27 [main] INFO  com.test.listener.ElementListener -点击:id: com.netease.cloudmusic:id/f7
+2022-01-21 14:03:28 [main] INFO  com.test.listener.ElementListener -点击:id: com.netease.cloudmusic:id/f8
+2022-01-21 14:03:57 [main] INFO  com.test.listener.ElementListener -点击:-android uiautomator: new UiSelector().text("手机号登录")
+2022-01-21 14:03:57 [main] INFO  com.test.listener.ElementListener -点击:id: com.netease.cloudmusic:id/a69
+2022-01-21 14:03:58 [main] INFO  com.test.listener.ElementListener -点击:id: com.netease.cloudmusic:id/f7
+2022-01-21 14:03:58 [main] INFO  com.test.listener.ElementListener -点击:id: com.netease.cloudmusic:id/f8
+2022-01-21 14:05:10 [main] INFO  com.test.listener.ElementListener -点击:-android uiautomator: new UiSelector().text("手机号登录")
+2022-01-21 14:05:10 [main] INFO  com.test.listener.ElementListener -点击:id: com.netease.cloudmusic:id/a69
+2022-01-21 14:05:11 [main] INFO  com.test.listener.ElementListener -点击:id: com.netease.cloudmusic:id/f7
+2022-01-21 14:05:11 [main] INFO  com.test.listener.ElementListener -点击:id: com.netease.cloudmusic:id/f8
+2022-01-21 14:05:51 [main] INFO  com.test.listener.ElementListener -点击:-android uiautomator: new UiSelector().text("手机号登录")
+2022-01-21 14:05:52 [main] INFO  com.test.listener.ElementListener -点击:id: com.netease.cloudmusic:id/a69
+2022-01-21 14:05:52 [main] INFO  com.test.listener.ElementListener -点击:id: com.netease.cloudmusic:id/f7
+2022-01-21 14:05:53 [main] INFO  com.test.listener.ElementListener -点击:id: com.netease.cloudmusic:id/f8
+2022-01-21 14:06:48 [main] INFO  com.test.listener.ElementListener -点击:-android uiautomator: new UiSelector().text("手机号登录")
+2022-01-21 14:06:48 [main] INFO  com.test.listener.ElementListener -点击:id: com.netease.cloudmusic:id/a69
+2022-01-21 14:06:49 [main] INFO  com.test.listener.ElementListener -点击:id: com.netease.cloudmusic:id/f7
+2022-01-21 14:06:49 [main] INFO  com.test.listener.ElementListener -点击:id: com.netease.cloudmusic:id/f8
+2022-01-21 14:07:15 [main] INFO  com.test.listener.ElementListener -点击:-android uiautomator: new UiSelector().text("手机号登录")
+2022-01-21 14:07:16 [main] INFO  com.test.listener.ElementListener -点击:id: com.netease.cloudmusic:id/a69
+2022-01-21 14:07:17 [main] INFO  com.test.listener.ElementListener -点击:id: com.netease.cloudmusic:id/f7
+2022-01-21 14:07:17 [main] INFO  com.test.listener.ElementListener -点击:id: com.netease.cloudmusic:id/f8
+2022-01-21 14:15:30 [main] INFO  com.test.listener.ElementListener -点击:-android uiautomator: new UiSelector().text("手机号登录")
+2022-01-21 14:15:31 [main] INFO  com.test.listener.ElementListener -点击:id: com.netease.cloudmusic:id/a69
+2022-01-21 14:15:31 [main] INFO  com.test.listener.ElementListener -点击:id: com.netease.cloudmusic:id/f7
+2022-01-21 14:15:32 [main] INFO  com.test.listener.ElementListener -点击:id: com.netease.cloudmusic:id/f8
+2022-01-21 14:17:24 [main] INFO  com.test.listener.ElementListener -点击:-android uiautomator: new UiSelector().text("手机号登录")
+2022-01-21 14:17:24 [main] INFO  com.test.listener.ElementListener -点击:id: com.netease.cloudmusic:id/a69
+2022-01-21 14:17:25 [main] INFO  com.test.listener.ElementListener -点击:id: com.netease.cloudmusic:id/f7
+2022-01-21 14:17:25 [main] INFO  com.test.listener.ElementListener -点击:id: com.netease.cloudmusic:id/f8
+2022-01-21 14:26:49 [main] INFO  com.test.listener.ElementListener -点击:-android uiautomator: new UiSelector().text("手机号登录")
+2022-01-21 14:26:50 [main] INFO  com.test.listener.ElementListener -点击:id: com.netease.cloudmusic:id/a69
+2022-01-21 14:26:50 [main] INFO  com.test.listener.ElementListener -点击:id: com.netease.cloudmusic:id/f7
+2022-01-21 14:26:51 [main] INFO  com.test.listener.ElementListener -点击:id: com.netease.cloudmusic:id/f8
+2022-01-21 14:28:34 [main] INFO  com.test.listener.ElementListener -点击:-android uiautomator: new UiSelector().text("手机号登录")
+2022-01-21 14:28:35 [main] INFO  com.test.listener.ElementListener -点击:id: com.netease.cloudmusic:id/a69
+2022-01-21 14:28:35 [main] INFO  com.test.listener.ElementListener -点击:id: com.netease.cloudmusic:id/f7
+2022-01-21 14:28:36 [main] INFO  com.test.listener.ElementListener -点击:id: com.netease.cloudmusic:id/f8
+2022-01-21 14:29:04 [main] INFO  com.test.listener.ElementListener -点击:-android uiautomator: new UiSelector().text("手机号登录")
+2022-01-21 14:29:04 [main] INFO  com.test.listener.ElementListener -点击:id: com.netease.cloudmusic:id/a69
+2022-01-21 14:29:05 [main] INFO  com.test.listener.ElementListener -点击:id: com.netease.cloudmusic:id/f7
+2022-01-21 14:29:05 [main] INFO  com.test.listener.ElementListener -点击:id: com.netease.cloudmusic:id/f8
+2022-01-21 14:33:39 [main] INFO  com.test.listener.ElementListener -点击:-android uiautomator: new UiSelector().text("手机号登录")
+2022-01-21 14:33:40 [main] INFO  com.test.listener.ElementListener -点击:id: com.netease.cloudmusic:id/a69
+2022-01-21 14:33:40 [main] INFO  com.test.listener.ElementListener -点击:id: com.netease.cloudmusic:id/f7
+2022-01-21 14:33:41 [main] INFO  com.test.listener.ElementListener -点击:id: com.netease.cloudmusic:id/f8
+2022-01-21 14:41:51 [main] INFO  com.test.listener.ElementListener -点击:-android uiautomator: new UiSelector().text("手机号登录")
+2022-01-21 14:41:52 [main] INFO  com.test.listener.ElementListener -点击:id: com.netease.cloudmusic:id/a69
+2022-01-21 14:41:52 [main] INFO  com.test.listener.ElementListener -点击:id: com.netease.cloudmusic:id/f7
+2022-01-21 14:41:53 [main] INFO  com.test.listener.ElementListener -点击:id: com.netease.cloudmusic:id/f8
+2022-01-21 14:42:18 [main] INFO  com.test.listener.ElementListener -点击:-android uiautomator: new UiSelector().text("手机号登录")
+2022-01-21 14:42:18 [main] INFO  com.test.listener.ElementListener -点击:id: com.netease.cloudmusic:id/a69
+2022-01-21 14:42:19 [main] INFO  com.test.listener.ElementListener -点击:id: com.netease.cloudmusic:id/f7
+2022-01-21 14:42:19 [main] INFO  com.test.listener.ElementListener -点击:id: com.netease.cloudmusic:id/f8
+2022-01-21 14:44:06 [main] INFO  com.test.listener.ElementListener -点击:-android uiautomator: new UiSelector().text("手机号登录")
+2022-01-21 14:44:06 [main] INFO  com.test.listener.ElementListener -点击:id: com.netease.cloudmusic:id/a69
+2022-01-21 14:44:07 [main] INFO  com.test.listener.ElementListener -点击:id: com.netease.cloudmusic:id/f7
+2022-01-21 14:44:07 [main] INFO  com.test.listener.ElementListener -点击:id: com.netease.cloudmusic:id/f8
+2022-01-21 14:45:28 [main] INFO  com.test.listener.ElementListener -点击:-android uiautomator: new UiSelector().text("手机号登录")
+2022-01-21 14:45:29 [main] INFO  com.test.listener.ElementListener -点击:id: com.netease.cloudmusic:id/a69
+2022-01-21 14:45:29 [main] INFO  com.test.listener.ElementListener -点击:id: com.netease.cloudmusic:id/f7
+2022-01-21 14:45:30 [main] INFO  com.test.listener.ElementListener -点击:id: com.netease.cloudmusic:id/f8
